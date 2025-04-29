@@ -3,15 +3,18 @@
       "name": "NKP_V2-master",
       "version": "1.0.0",
       "description": "รองรับ WiFi, BLE",
+      "components": [],
       "changelog": "เพิ่ม Library XYZ",
       "git": "https://github.com/woottinan/kbide-board-repo/tree/main/boards/NKP_V2-master",
       "download_url": "https://woottinan.github.io/kbide-board-repo/boards/NKP_V2-master.zip",
       "type": "board"
+      
     },
     {
       "name": "NPuppyBot-KBIDE-master",
       "version": "1.0.0",
       "description": "รองรับ WiFi, BLE",
+      "components": [],
       "changelog": "เพิ่ม Library XYZ",
       "git": "https://github.com/woottinan/kbide-board-repo/tree/main/boards/PuppyBot-KBIDE-master",
       "download_url": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot-KBIDE-master.zip",
