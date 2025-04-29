@@ -3,9 +3,11 @@
       "name": "Smart-Farm",
       "version": "1.0.0",
       "description": "ปลั๊กอินสำหรับเซ็นเซอร์",
+      "components": [],
       "git": "https://github.com/woottinan/plugins",
       "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm.zip",
       "type": "plugin"
+      
     }
   ]
   
