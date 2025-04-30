@@ -1,20 +1,20 @@
 [
     {
-      "name": "NKP_V2",
+      "name": "NKP-V2",
       "version": "1.0.0",
       "description": "รองรับ WiFi, BLE",
       "components": [],
-      "changelog": "เพิ่ม Library XYZ",
+      "changelog": "อัปเดต",
       "download_url": "https://woottinan.github.io/kbide-board-repo/boards/NKP_V2.zip",
       "type": "board"
       
     },
     {
-      "name": "NPuppyBot",
+      "name": "PuppyBot",
       "version": "1.0.0",
       "description": "รองรับ WiFi, BLE",
       "components": [],
-      "changelog": "เพิ่ม Library XYZ",
+      "changelog": "อัปเดต",
       "download_url": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot.zip",
       "type": "board"
     }
