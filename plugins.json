@@ -6,9 +6,9 @@
     "description": "ปลั๊กอินสำหรับฟาร์มอัจฉริยะ",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm.zip",
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/Smart-Farm.zip",
     "type": "plugin",
     "status": "published",
-    "image": "SmartFarm.png"
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/SmartFarm.png"
   }
 ]
