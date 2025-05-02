@@ -1,13 +1,14 @@
 [
-    {
-      "name": "Smart-Farm",
-      "version": "1.0.0",
-      "description": "ปลั๊กอินสำหรับเซ็นเซอร์",
-      "components": [],
-      "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm.zip",
-      "type": "plugin"
-      
-    }
-  ]
-  
-  
+  {
+    "name": "Smart-Farm",
+    "version": "1.0.0",
+    "title": "Smart Farm Controller",
+    "description": "ปลั๊กอินสำหรับฟาร์มอัจฉริยะ",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "SmartFarm.png"
+  }
+]
