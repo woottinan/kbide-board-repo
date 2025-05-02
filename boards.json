@@ -1,22 +1,28 @@
 [
-    {
-      "name": "NKP-V2",
-      "version": "1.0.0",
-      "description": "รองรับ WiFi, BLE",
-      "components": [],
-      "changelog": "อัปเดต",
-      "download_url": "https://woottinan.github.io/kbide-board-repo/boards/NKP_V2.zip",
-      "type": "board"
-      
-    },
-    {
-      "name": "PuppyBot",
-      "version": "1.0.0",
-      "description": "รองรับ WiFi, BLE",
-      "components": [],
-      "changelog": "อัปเดต",
-      "download_url": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot.zip",
-      "type": "board"
-    }
-  ]
-  
+  {
+    "name": "NKP-V2",
+    "version": "1.0.0",
+    "title": "Board NKP-V2",
+    "description": "Board NKP-V2",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/NKP-V2/NKP-V2.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/boards/NKP-V2/NKP-V2.png",
+    "git": "#"
+  },
+  {
+    "name": "PuppyBot",
+    "version": "1.0.0",
+    "title": "Board PuppyBot",
+    "description": "Board PuppyBot",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot/PuppyBot.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot/PuppyBot.png",
+    "git": "#"
+  }
+]
