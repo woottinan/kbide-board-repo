@@ -9,6 +9,7 @@
     "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/Smart-Farm.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/Smart-Farm.png"
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/Smart-Farm.png",
+    "git": "#"
   }
 ]
