@@ -11,5 +11,33 @@
     "status": "published",
     "image": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/Smart-Farm.png",
     "git": "#"
+  },
+
+  {
+    "name": "KB-BlynkV2",
+    "version": "1.0.0",
+    "title": "KB-BlynkV2",
+    "description": "ปลั๊กอินสำหรับฟาร์มอัจฉริยะ",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/KB-BlynkV2.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/KB-BlynkV2.png",
+    "git": "#"
+  },
+
+  {
+    "name": "KB-Exten",
+    "version": "1.0.0",
+    "title": "KB-Exten",
+    "description": "ปลั๊กอินสำหรับฟาร์มอัจฉริยะ",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/KB-Exten.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/Smart-Farm/KB-Exten.png",
+    "git": "#"
   }
 ]
